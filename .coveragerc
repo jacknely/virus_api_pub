@@ -1,0 +1,6 @@
+[run]
+source = .
+omit = ./virt/*
+
+[report]
+omit = ./virt/*
